@@ -66,9 +66,9 @@ btnArrow.forEach(item => {
 
 
     if(textDesc.classList.contains('active')){
-        item.setAttribute('src', './_public/assets/img/arr-down.png')
+        item.setAttribute('src', '/assets/img/arr-down.png')
     }else {
-        item.setAttribute('src', './_public/assets/img/arr-up.png')
+        item.setAttribute('src', '/assets/img/arr-up.png')
     }
     
 })

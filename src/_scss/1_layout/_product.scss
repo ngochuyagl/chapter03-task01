@@ -1,7 +1,7 @@
 /* layout
 ------------------------------------------------------------*/
 body {
-    background-image: url("../../_public/assets/img/bg.png");
+    background-image: url("/assets/img/bg.png");
     font-family: $main-fonts;
     font-size: 1.4rem;
     // max-width: $base-width;
@@ -23,7 +23,7 @@ main {
 //-------------------------------------------------------
 
 .l-product {
-    background-image: url(../../_public/assets/img/bg-2.jpg);
+    background-image: url(/assets/img/bg-2.jpg);
     width: 100%;
     height: auto;
 }
@@ -179,7 +179,7 @@ main {
     display: block;
     position: relative;
     padding-block: 15px;
-    background-image: url(../../_public/assets/img/list-img.jpg);
+    background-image: url(/assets/img/list-img.jpg);
     background-repeat: no-repeat;
     background-position: center;
     font-size: 1.6rem;
